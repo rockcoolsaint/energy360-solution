@@ -1,0 +1,36 @@
+{
+"ministries": [{
+"name": "Ministry of Justice",
+"minister": "Abubakar Malami", "origin": "Kebbi",
+"address": "Federal Ministry of Justice, Federal Secretariat Towers (5th & 10th floors), Shehu Shagari Way, Central Area, Abuja. Federal Capital Territory. Nigeria. ",
+"website": "www.justice.gov.ng"
+}, {
+"name": "Ministry of Transportation", "minister": "Rotimi Amaechi", "origin": "Rivers",
+"address": "Federal Ministry of Transportation, Federal Secretariat Towers (5th & 10th floors), Shehu Shagari Way, Central Area, Abuja. Federal Capital Territory. Nigeria. ",
+"website": "www.transport.gov.ng"
+}, {
+"name": "Ministry of Labour & Employment", "minister": "Chris Ngige", "origin": "Anambra",
+"address": "Federal Ministry of Labour & Employment, Federal Secretariat Towers (5th & 10th floors), Shehu Shagari Way, Central Area, Abuja. Federal Capital Territory. Nigeria. ",
+"website": "www.transport.gov.ng"
+}, {
+"name": "Ministry of Power, Works and Housing", "minister": "Babatunde Fashola", "origin": "Lagos",
+"address": "Federal Power, Works and Housing, Federal Secretariat Towers (5th & 10th floors), Shehu Shagari Way, Central Area, Abuja. Federal Capital Territory. Nigeria. ",
+"website": "www.transport.gov.ng"
+}, {
+"name": "Ministry of Interior", "minister": "Abdulrahman Dambazau", "origin": "Kano",
+"address": "Federal Ministry of Interior, Federal Secretariat Towers (5th & 10th floors), Shehu Shagari Way, Central Area, Abuja. Federal Capital Territory. Nigeria. ",
+"website": "www.fmi-ng.org"
+}, {
+"name": "Ministry of Women Affairs", "minister": "Aisha Alhassan", "origin": "Taraba",
+"address": "Federal Ministry of Women Affairs, Federal Secretariat Towers (5th & 10th floors), Shehu Shagari Way, Central Area, Abuja. Federal Capital Territory. Nigeria. ",
+"website": "www.transport.gov.ng"
+}, {
+"name": "Ministry of Science and Technology", "minister": "Ogbonnaya Onu", "origin": "Ebonyi",
+"address": "Federal Ministry of Science and Technology, Federal Secretariat Towers (5th & 10th floors), Shehu Shagari Way, Central Area, Abuja. Federal Capital Territory. Nigeria. ",
+"website": "www.fmst.gov.ng"
+}, {
+"name": "Ministry of Finance", "minister": "Kemi Adeosun", "origin": "Ogun",
+"address": "Federal Ministry of Finance, Federal Secretariat Towers (5th & 10th floors), Shehu Shagari Way, Central Area, Abuja. Federal Capital Territory. Nigeria. ",
+"website": "www.finance.gov.ng"
+}]
+}
