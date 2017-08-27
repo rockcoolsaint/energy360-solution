@@ -53,12 +53,18 @@
   </head>
   <body>
     <div class="row">
-      <div id='content' class="col-md-6 ml-md-auto mr-md-auto">
-        <form action="" method="POST" enctype="multipart/form-data">
-          <input type="file" name="file">
-          <input type="submit" name="submit">
-        </form>
-      </div>
+      <?php
+        if (!file_exists("uploads/json.txt")) {
+      ?>
+          <div id='content' class="col-md-6 ml-md-auto mr-md-auto">
+            <form action="" method="POST" enctype="multipart/form-data">
+              <input type="file" name="file">
+              <input type="submit" name="submit">
+            </form>
+          </div>
+      <?php
+        }
+      ?>
     </div>
 
     <h1 class="col-md-6 ml-md-auto mr-md-auto">Ministries and Federal Parastatals</h1>
